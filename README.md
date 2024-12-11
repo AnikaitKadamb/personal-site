@@ -1,5 +1,5 @@
-This is my personal website.\n
-...\n
-...\n
-...\n
+This is my personal website.
+...
+...
+...
 Exciting Stuff, I know!
